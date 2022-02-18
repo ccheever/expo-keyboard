@@ -1,0 +1,8 @@
+{
+  "name": "expo-physical-keyboard",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ccheever/expo-physical-keyboard.git",
+  "author": "Charlie Cheever <ccheever@expo.io>",
+  "license": "MIT"
+}

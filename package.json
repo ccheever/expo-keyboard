@@ -1,8 +1,12 @@
 {
-  "name": "expo-physical-keyboard",
+  "name": "expo-keyboard",
   "version": "0.0.0",
   "main": "index.js",
-  "repository": "https://github.com/ccheever/expo-physical-keyboard.git",
+  "repository": "https://github.com/ccheever/expo-keyboard.git",
   "author": "Charlie Cheever <ccheever@expo.io>",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^17.0.0",
+    "react-native": "^0.61.0"
+  }
 }
